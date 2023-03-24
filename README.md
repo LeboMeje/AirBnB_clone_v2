@@ -29,6 +29,7 @@ This repository contains the initial stage of a student project to build a clone
 (hbnb)
 ```
 5. This prompt designates you are in the "HBnB" console. There are a variety of commands available within the console program.
+
 ##### Commands
     * create - Creates an instance based on given class
     * destroy - Destroys an object based on class and UUID
@@ -36,6 +37,7 @@ This repository contains the initial stage of a student project to build a clone
     * all - Shows all objects the program has access to, or all objects of a given class
     * update - Updates existing attributes an object based on class name and UUID
     * quit - Exits the program (EOF will as well)
+    
 ##### Alternative Syntax
 Users are able to issue a number of console command using an alternative syntax:
 	Usage: <class_name>.<command>([<id>[name_arg value_arg]|[kwargs]])
@@ -49,6 +51,7 @@ Advanced syntax is implemented for the following commands:
 <br>
 <center> <h2>Examples</h2> </center>
 <h3>Primary Command Syntax</h3>
+	
 ###### Example 0: Create an object
 Usage: create <class_name>
 ```
