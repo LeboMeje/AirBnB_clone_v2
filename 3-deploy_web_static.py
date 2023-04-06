@@ -7,17 +7,9 @@ import shlex
 
 
 env.hosts = ['35.231.33.237', '34.74.155.163']
-
-    
-        
-          
-    
-
-        
-    
-    @@ -17,3 +18,46 @@ def deploy():
-  
 env.user = "ubuntu"
+
+
 def deploy():
     """ DEPLOYS """
     try:
